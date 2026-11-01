@@ -1,0 +1,10 @@
+{
+  "name": "laravel-postgresql/laravel-app",
+  "type": "project",
+  "description": "Laravel starter app on HostifyCloud",
+  "require": {
+    "php": "^8.2",
+    "laravel/framework": "^11.0",
+    "predis/predis": "^2.0"
+  }
+}
